@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702463951204",
+    "project_id": "quickchef-8db6e",
+    "storage_bucket": "quickchef-8db6e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702463951204:android:e25636ef94a9de9f517a71",
+        "android_client_info": {
+          "package_name": "com.sachin.quickchef"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD01Iz4qGH9jncWKDk-AD27bdxDG-8u2RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
