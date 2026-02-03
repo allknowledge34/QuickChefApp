@@ -5,7 +5,7 @@ A hackathon-ready full-stack platform that allows users to book professional che
 Built with modern production technologies for web & mobile.
 
 ---
-![Demo App](/app/src/main/res/drawable/maxresdefault3.jpg)
+![Demo App](/app/src/main/res/drawable/maxresdefault-3.jpg)
 
 ---
 
